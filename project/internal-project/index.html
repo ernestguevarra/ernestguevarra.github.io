@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="en-gb">
 
 <head>
 
@@ -31,7 +31,7 @@
   <meta name="description" content="An example of using the in-built project page.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://ernest.guevarra.io/project/internal-project/">
+  <link rel="alternate" hreflang="en-gb" href="https://ernest.guevarra.io/project/internal-project/">
 
   
 
@@ -39,7 +39,7 @@
   
   
   
-  <meta name="theme-color" content="#2962ff">
+  <meta name="theme-color" content="#3f51b5">
   
 
   
@@ -199,6 +199,42 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118912078-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-118912078-3', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -219,11 +255,14 @@
   
   <meta property="twitter:card" content="summary_large_image">
   
+  <meta property="twitter:site" content="@ernestguevarra">
+  <meta property="twitter:creator" content="@ernestguevarra">
+  
   <meta property="og:site_name" content="Ernest Guevarra">
   <meta property="og:url" content="https://ernest.guevarra.io/project/internal-project/">
   <meta property="og:title" content="Internal Project | Ernest Guevarra">
   <meta property="og:description" content="An example of using the in-built project page."><meta property="og:image" content="https://ernest.guevarra.io/project/internal-project/featured.jpg">
-  <meta property="twitter:image" content="https://ernest.guevarra.io/project/internal-project/featured.jpg"><meta property="og:locale" content="en-us">
+  <meta property="twitter:image" content="https://ernest.guevarra.io/project/internal-project/featured.jpg"><meta property="og:locale" content="en-gb">
   
     
       <meta property="article:published_time" content="2016-04-27T00:00:00&#43;00:00">
@@ -358,39 +397,10 @@
 
     
     
-    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
 
       
       <ul class="navbar-nav d-md-inline-flex">
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#hero"><span>Demo</span></a>
-        </li>
-
-        
         
 
         
@@ -606,7 +616,7 @@
     
       
     
-    Apr 27, 2016
+    27/04/2016
   </span>
   
 
@@ -1335,7 +1345,7 @@
       
       <div>
         <span>
-          Jun 1, 2030 1:00 PM &mdash; 3:00 PM
+          01/06/2030 13:00 &mdash; 15:00
         </span>
         
         <span class="middot-divider"></span>

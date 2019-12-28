@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="en-gb">
 
 <head>
 
@@ -31,7 +31,7 @@
   <meta name="description" content="Head of Measures">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://ernest.guevarra.io/">
+  <link rel="alternate" hreflang="en-gb" href="https://ernest.guevarra.io/">
 
   
 
@@ -39,7 +39,7 @@
   
   
   
-  <meta name="theme-color" content="#2962ff">
+  <meta name="theme-color" content="#3f51b5">
   
 
   
@@ -199,6 +199,42 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118912078-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-118912078-3', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -222,11 +258,14 @@
   
   <meta property="twitter:card" content="summary">
   
+  <meta property="twitter:site" content="@ernestguevarra">
+  <meta property="twitter:creator" content="@ernestguevarra">
+  
   <meta property="og:site_name" content="Ernest Guevarra">
   <meta property="og:url" content="https://ernest.guevarra.io/">
   <meta property="og:title" content="Ernest Guevarra">
   <meta property="og:description" content="Head of Measures"><meta property="og:image" content="https://ernest.guevarra.io/img/icon-192.png">
-  <meta property="twitter:image" content="https://ernest.guevarra.io/img/icon-192.png"><meta property="og:locale" content="en-us">
+  <meta property="twitter:image" content="https://ernest.guevarra.io/img/icon-192.png"><meta property="og:locale" content="en-gb">
   
     <meta property="og:updated_time" content="2030-06-01T13:00:00&#43;00:00">
   
@@ -323,39 +362,10 @@
 
     
     
-    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
 
       
       <ul class="navbar-nav d-md-inline-flex">
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#hero" data-target="#hero"><span>Demo</span></a>
-        </li>
-
-        
         
 
         
@@ -1211,7 +1221,7 @@
     
       
     
-    Jul 12, 2019
+    12/07/2019
   </span>
   
 
@@ -1316,7 +1326,7 @@
           Last updated on
       
     
-    Sep 5, 2019
+    05/09/2019
   </span>
   
 
@@ -1421,7 +1431,7 @@
           Last updated on
       
     
-    Apr 17, 2019
+    17/04/2019
   </span>
   
 
@@ -1515,7 +1525,7 @@
     
       
     
-    Jul 23, 2015
+    23/07/2015
   </span>
   
 
@@ -2028,7 +2038,7 @@
       
       <div>
         <span>
-          Jun 1, 2030 1:00 PM &mdash; 3:00 PM
+          01/06/2030 13:00 &mdash; 15:00
         </span>
         
         <span class="middot-divider"></span>
@@ -3125,7 +3135,7 @@
     
 
     <div class="mb-3">
-      <form name="contact" method="POST" action="https://formspree.io/test@example.org">
+      <form name="contact" method="POST" action="https://formspree.io/ernest@guevarra.io">
         <div class="form-group form-inline">
           <label class="sr-only" for="inputName">Name</label>
           <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Name" required>
@@ -3148,33 +3158,18 @@
       
 
       
-      <li>
-        <i class="fa-li fas fa-phone fa-2x" aria-hidden="true"></i>
-        <span id="person-telephone"><a href="tel:888%20888%2088%2088">888 888 88 88</a></span>
-      </li>
-      
 
       
       
         
         <li>
           <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
-          <span id="person-address">450 Serra Mall, Stanford, CA 94305</span>
+          <span id="person-address">Oxford, </span>
         </li>
       
 
       
-      <li>
-        <i class="fa-li fas fa-compass fa-2x" aria-hidden="true"></i>
-        <span>Enter Building 1 and take the stairs to Office 200 on Floor 2</span>
-      </li>
-      
 
-      
-      <li>
-        <i class="fa-li fas fa-clock fa-2x" aria-hidden="true"></i>
-        <span>Monday 10:00 to 13:00<br>Wednesday 09:00 to 10:00</span>
-      </li>
       
 
       
@@ -3199,7 +3194,7 @@
       
       <li>
         <i class="fa-li fab fa-twitter fa-2x" aria-hidden="true"></i>
-        <a href="https://twitter.com/Twitter" target="_blank" rel="noopener">DM Me</a>
+        <a href="https://twitter.com/ernestguevarra" target="_blank" rel="noopener">Twitter</a>
       </li>
       
       
@@ -3213,7 +3208,7 @@
       
       <li>
         <i class="fa-li fab fa-skype fa-2x" aria-hidden="true"></i>
-        <a href="skype:echo123?call" >Skype Me</a>
+        <a href="skype:ernestguevarra?call" >Skype</a>
       </li>
       
       
@@ -3229,23 +3224,7 @@
       
       <li>
         <i class="fa-li fab fa-keybase fa-2x" aria-hidden="true"></i>
-        <a href="https://keybase.io/" target="_blank" rel="noopener">Chat on Keybase</a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <i class="fa-li fas fa-comments fa-2x" aria-hidden="true"></i>
-        <a href="https://discourse.gohugo.io" target="_blank" rel="noopener">Discuss on Forum</a>
+        <a href="https://keybase.io/ernestguevarra" target="_blank" rel="noopener">Keybase</a>
       </li>
       
 
@@ -3256,7 +3235,7 @@
       <input id="map-provider" value="2">
       <input id="map-lat" value="37.4275">
       <input id="map-lng" value="-122.1697">
-      <input id="map-dir" value="450 Serra Mall, Stanford, CA 94305">
+      <input id="map-dir" value="Oxford, ">
       <input id="map-zoom" value="15">
       <input id="map-api-key" value="">
     </div>

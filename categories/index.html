@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="en-gb">
 
 <head>
 
@@ -31,7 +31,7 @@
   <meta name="description" content="Head of Measures">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://ernest.guevarra.io/categories/">
+  <link rel="alternate" hreflang="en-gb" href="https://ernest.guevarra.io/categories/">
 
   
 
@@ -39,7 +39,7 @@
   
   
   
-  <meta name="theme-color" content="#2962ff">
+  <meta name="theme-color" content="#3f51b5">
   
 
   
@@ -199,6 +199,42 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118912078-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-118912078-3', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -222,11 +258,14 @@
   
   <meta property="twitter:card" content="summary">
   
+  <meta property="twitter:site" content="@ernestguevarra">
+  <meta property="twitter:creator" content="@ernestguevarra">
+  
   <meta property="og:site_name" content="Ernest Guevarra">
   <meta property="og:url" content="https://ernest.guevarra.io/categories/">
   <meta property="og:title" content="Categories | Ernest Guevarra">
   <meta property="og:description" content="Head of Measures"><meta property="og:image" content="https://ernest.guevarra.io/img/icon-192.png">
-  <meta property="twitter:image" content="https://ernest.guevarra.io/img/icon-192.png"><meta property="og:locale" content="en-us">
+  <meta property="twitter:image" content="https://ernest.guevarra.io/img/icon-192.png"><meta property="og:locale" content="en-gb">
   
     <meta property="og:updated_time" content="2016-04-20T00:00:00&#43;00:00">
   
@@ -309,39 +348,10 @@
 
     
     
-    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
 
       
       <ul class="navbar-nav d-md-inline-flex">
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#hero"><span>Demo</span></a>
-        </li>
-
-        
         
 
         

@@ -1,9 +1,9 @@
 {
   "name": "Ernest Guevarra",
   "short_name": "Ernest Guevarra",
-  "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "lang": "en-gb",
+  "theme_color": "#3f51b5",
+  "background_color": "#3f51b5",
   "icons": [{
     "src": "../img/icon-192.png",
     "sizes": "192x192",
