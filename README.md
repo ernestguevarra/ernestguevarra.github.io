@@ -1,1 +1,0 @@
-# ernestguevarra.github.io
