@@ -5,26 +5,12 @@
     <link>https://ernest.guevarra.io/publication/</link>
       <atom:link href="https://ernest.guevarra.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2019</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2019</copyright><lastBuildDate>Wed, 19 Oct 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ernest.guevarra.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://ernest.guevarra.io/publication/</link>
     </image>
-    
-    <item>
-      <title>An example preprint / working paper</title>
-      <link>https://ernest.guevarra.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&#39;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Household Coverage of Fortified Staple Food Commodities in Rajasthan, India</title>
