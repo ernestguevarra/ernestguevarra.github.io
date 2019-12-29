@@ -5,7 +5,7 @@
     <link>https://ernest.guevarra.io/project/</link>
       <atom:link href="https://ernest.guevarra.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2019</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2019</copyright><lastBuildDate>Wed, 17 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ernest.guevarra.io/img/icon-192.png</url>
       <title>Projects</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>External Project</title>
+      <title>Blocked weighted bootstrap</title>
       <link>https://ernest.guevarra.io/project/bbw/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://ernest.guevarra.io/project/bbw/</guid>
       <description></description>
     </item>
