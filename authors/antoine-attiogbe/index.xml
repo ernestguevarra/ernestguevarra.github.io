@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antoine Attiogbe | Ernest Guevarra</title>
+    <link>https://ernest.guevarra.io/authors/antoine-attiogbe/</link>
+      <atom:link href="https://ernest.guevarra.io/authors/antoine-attiogbe/index.xml" rel="self" type="application/rss+xml" />
+    <description>Antoine Attiogbe</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2019</copyright><lastBuildDate>Tue, 18 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ernest.guevarra.io/img/icon-192.png</url>
+      <title>Antoine Attiogbe</title>
+      <link>https://ernest.guevarra.io/authors/antoine-attiogbe/</link>
+    </image>
+    
+    <item>
+      <title>Assessing Program Coverage of Two Approaches to Distributing a Complementary Feeding Supplement to Infants and Young Children in Ghana</title>
+      <link>https://ernest.guevarra.io/publication/aaron2016cv/</link>
+      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://ernest.guevarra.io/publication/aaron2016cv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
