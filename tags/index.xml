@@ -5,12 +5,36 @@
     <link>https://ernest.guevarra.io/tags/</link>
       <atom:link href="https://ernest.guevarra.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2019</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2019</copyright><lastBuildDate>Sun, 29 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ernest.guevarra.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://ernest.guevarra.io/tags/</link>
     </image>
+    
+    <item>
+      <title>analysis</title>
+      <link>https://ernest.guevarra.io/tags/analysis/</link>
+      <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://ernest.guevarra.io/tags/analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nutrition</title>
+      <link>https://ernest.guevarra.io/tags/nutrition/</link>
+      <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://ernest.guevarra.io/tags/nutrition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://ernest.guevarra.io/tags/r/</link>
+      <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://ernest.guevarra.io/tags/r/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Source Themes</title>
@@ -29,26 +53,10 @@
     </item>
     
     <item>
-      <title>R</title>
-      <link>https://ernest.guevarra.io/tags/r/</link>
-      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>surveys</title>
       <link>https://ernest.guevarra.io/tags/surveys/</link>
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://ernest.guevarra.io/tags/surveys/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>https://ernest.guevarra.io/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     

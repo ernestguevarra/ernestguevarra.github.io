@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R | Ernest Guevarra</title>
-    <link>https://ernest.guevarra.io/tags/r/</link>
-      <atom:link href="https://ernest.guevarra.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
-    <description>R</description>
+    <title>analysis | Ernest Guevarra</title>
+    <link>https://ernest.guevarra.io/tags/analysis/</link>
+      <atom:link href="https://ernest.guevarra.io/tags/analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>analysis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2019</copyright><lastBuildDate>Sun, 29 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ernest.guevarra.io/img/icon-192.png</url>
-      <title>R</title>
-      <link>https://ernest.guevarra.io/tags/r/</link>
+      <title>analysis</title>
+      <link>https://ernest.guevarra.io/tags/analysis/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://ernest.guevarra.io/project/nutriverse/</link>
       <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://ernest.guevarra.io/project/nutriverse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blocked weighted bootstrap</title>
-      <link>https://ernest.guevarra.io/project/bbw/</link>
-      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/project/bbw/</guid>
       <description></description>
     </item>
     
