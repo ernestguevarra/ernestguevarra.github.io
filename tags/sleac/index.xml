@@ -5,12 +5,20 @@
     <link>https://ernest.guevarra.io/tags/sleac/</link>
       <atom:link href="https://ernest.guevarra.io/tags/sleac/index.xml" rel="self" type="application/rss+xml" />
     <description>SLEAC</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2019</copyright><lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2019</copyright><lastBuildDate>Tue, 05 Mar 2019 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ernest.guevarra.io/img/icon-192.png</url>
       <title>SLEAC</title>
       <link>https://ernest.guevarra.io/tags/sleac/</link>
     </image>
+    
+    <item>
+      <title>Assessing coverage of community-based management of acute malnutrition</title>
+      <link>https://ernest.guevarra.io/talk/nie_lshtm_2019/</link>
+      <pubDate>Tue, 05 Mar 2019 13:00:00 +0000</pubDate>
+      <guid>https://ernest.guevarra.io/talk/nie_lshtm_2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A single coverage estimator for use in SQUEAC, SLEAC, and other CMAM coverage assessments</title>
