@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sudan | Ernest Guevarra</title>
+    <link>https://ernest.guevarra.io/tags/sudan/</link>
+      <atom:link href="https://ernest.guevarra.io/tags/sudan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sudan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ernest.guevarra.io/img/icon-192.png</url>
+      <title>Sudan</title>
+      <link>https://ernest.guevarra.io/tags/sudan/</link>
+    </image>
+    
+    <item>
+      <title>Impact evaluation of the World Food Programme&#39;s moderate acute malnutrition treatment and prevention programmes in Sudan</title>
+      <link>https://ernest.guevarra.io/publication/guevarra2018ie/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ernest.guevarra.io/publication/guevarra2018ie/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
