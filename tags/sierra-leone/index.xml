@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sierra Leone | Ernest Guevarra</title>
+    <link>https://ernest.guevarra.io/tags/sierra-leone/</link>
+      <atom:link href="https://ernest.guevarra.io/tags/sierra-leone/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sierra Leone</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2019</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ernest.guevarra.io/img/icon-192.png</url>
+      <title>Sierra Leone</title>
+      <link>https://ernest.guevarra.io/tags/sierra-leone/</link>
+    </image>
+    
+    <item>
+      <title>Using SLEAC as a wide-area survey method</title>
+      <link>https://ernest.guevarra.io/publication/guevarra2012ui/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ernest.guevarra.io/publication/guevarra2012ui/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
