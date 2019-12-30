@@ -5,28 +5,12 @@
     <link>https://ernest.guevarra.io/categories/</link>
       <atom:link href="https://ernest.guevarra.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2019</copyright><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2019</copyright>
     <image>
       <url>https://ernest.guevarra.io/img/icon-192.png</url>
       <title>Categories</title>
       <link>https://ernest.guevarra.io/categories/</link>
     </image>
-    
-    <item>
-      <title>Demo</title>
-      <link>https://ernest.guevarra.io/categories/demo/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/categories/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>https://ernest.guevarra.io/categories/r/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>https://ernest.guevarra.io/categories/r/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
