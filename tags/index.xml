@@ -5,12 +5,36 @@
     <link>https://ernest.guevarra.io/tags/</link>
       <atom:link href="https://ernest.guevarra.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2020</copyright><lastBuildDate>Sun, 29 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2020</copyright><lastBuildDate>Tue, 21 Jan 2020 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ernest.guevarra.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://ernest.guevarra.io/tags/</link>
     </image>
+    
+    <item>
+      <title>assessment</title>
+      <link>https://ernest.guevarra.io/tags/assessment/</link>
+      <pubDate>Tue, 21 Jan 2020 09:00:00 +0000</pubDate>
+      <guid>https://ernest.guevarra.io/tags/assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coverage</title>
+      <link>https://ernest.guevarra.io/tags/coverage/</link>
+      <pubDate>Tue, 21 Jan 2020 09:00:00 +0000</pubDate>
+      <guid>https://ernest.guevarra.io/tags/coverage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>evaluation</title>
+      <link>https://ernest.guevarra.io/tags/evaluation/</link>
+      <pubDate>Tue, 21 Jan 2020 09:00:00 +0000</pubDate>
+      <guid>https://ernest.guevarra.io/tags/evaluation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>analysis</title>
@@ -73,14 +97,6 @@
       <link>https://ernest.guevarra.io/tags/cmam/</link>
       <pubDate>Tue, 05 Mar 2019 09:00:00 +0000</pubDate>
       <guid>https://ernest.guevarra.io/tags/cmam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>coverage</title>
-      <link>https://ernest.guevarra.io/tags/coverage/</link>
-      <pubDate>Tue, 05 Mar 2019 09:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/tags/coverage/</guid>
       <description></description>
     </item>
     
