@@ -5,12 +5,20 @@
     <link>https://ernest.guevarra.io/publication/</link>
       <atom:link href="https://ernest.guevarra.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2020</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ernest.guevarra.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://ernest.guevarra.io/publication/</link>
     </image>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>https://ernest.guevarra.io/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://ernest.guevarra.io/publication/preprint/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Impact evaluation of the World Food Programme&#39;s moderate acute malnutrition treatment and prevention programmes in Sudan</title>

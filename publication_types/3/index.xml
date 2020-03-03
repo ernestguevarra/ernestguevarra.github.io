@@ -5,12 +5,20 @@
     <link>https://ernest.guevarra.io/publication_types/3/</link>
       <atom:link href="https://ernest.guevarra.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2020</copyright><lastBuildDate>Fri, 18 Jul 2014 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2020</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ernest.guevarra.io/img/icon-192.png</url>
       <title>3</title>
       <link>https://ernest.guevarra.io/publication_types/3/</link>
     </image>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>https://ernest.guevarra.io/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://ernest.guevarra.io/publication/preprint/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Blockages to preventing malnutrition in Kambia, Sierra Leone: A Semi-quantitative causal analysis</title>
