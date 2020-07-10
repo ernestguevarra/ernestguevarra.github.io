@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CSAS | Ernest Guevarra</title>
-    <link>https://ernest.guevarra.io/tags/csas/</link>
-      <atom:link href="https://ernest.guevarra.io/tags/csas/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/csas/</link>
+      <atom:link href="/tags/csas/index.xml" rel="self" type="application/rss+xml" />
     <description>CSAS</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2020</copyright><lastBuildDate>Tue, 05 Mar 2019 09:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ernest.guevarra.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>CSAS</title>
-      <link>https://ernest.guevarra.io/tags/csas/</link>
+      <link>/tags/csas/</link>
     </image>
     
     <item>
       <title>Assessing coverage of community-based management of acute malnutrition</title>
-      <link>https://ernest.guevarra.io/talk/nie_lshtm_2019/</link>
+      <link>/talk/nie_lshtm_2019/</link>
       <pubDate>Tue, 05 Mar 2019 09:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/talk/nie_lshtm_2019/</guid>
+      <guid>/talk/nie_lshtm_2019/</guid>
       <description></description>
     </item>
     

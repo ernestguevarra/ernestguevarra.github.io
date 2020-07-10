@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FACT | Ernest Guevarra</title>
-    <link>https://ernest.guevarra.io/tags/fact/</link>
-      <atom:link href="https://ernest.guevarra.io/tags/fact/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/fact/</link>
+      <atom:link href="/tags/fact/index.xml" rel="self" type="application/rss+xml" />
     <description>FACT</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2020</copyright><lastBuildDate>Fri, 14 Aug 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ernest.guevarra.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>FACT</title>
-      <link>https://ernest.guevarra.io/tags/fact/</link>
+      <link>/tags/fact/</link>
     </image>
     
     <item>
       <title>Assessing Coverage of Targeted and Large-scale Fortification Programs: Development of a Fortification Assessment Coverage Tool (FACT)</title>
-      <link>https://ernest.guevarra.io/publication/aaron2015bi/</link>
+      <link>/publication/aaron2015bi/</link>
       <pubDate>Fri, 14 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/publication/aaron2015bi/</guid>
+      <guid>/publication/aaron2015bi/</guid>
       <description></description>
     </item>
     

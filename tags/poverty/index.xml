@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>poverty | Ernest Guevarra</title>
-    <link>https://ernest.guevarra.io/tags/poverty/</link>
-      <atom:link href="https://ernest.guevarra.io/tags/poverty/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/poverty/</link>
+      <atom:link href="/tags/poverty/index.xml" rel="self" type="application/rss+xml" />
     <description>poverty</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2020</copyright><lastBuildDate>Mon, 05 Mar 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ernest.guevarra.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>poverty</title>
-      <link>https://ernest.guevarra.io/tags/poverty/</link>
+      <link>/tags/poverty/</link>
     </image>
     
     <item>
       <title>ppitables</title>
-      <link>https://ernest.guevarra.io/project/ppitables/</link>
+      <link>/project/ppitables/</link>
       <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/project/ppitables/</guid>
+      <guid>/project/ppitables/</guid>
       <description></description>
     </item>
     

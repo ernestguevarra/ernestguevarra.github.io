@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SQUEAC | Ernest Guevarra</title>
-    <link>https://ernest.guevarra.io/tags/squeac/</link>
-      <atom:link href="https://ernest.guevarra.io/tags/squeac/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/squeac/</link>
+      <atom:link href="/tags/squeac/index.xml" rel="self" type="application/rss+xml" />
     <description>SQUEAC</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2020</copyright><lastBuildDate>Tue, 05 Mar 2019 09:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ernest.guevarra.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>SQUEAC</title>
-      <link>https://ernest.guevarra.io/tags/squeac/</link>
+      <link>/tags/squeac/</link>
     </image>
     
     <item>
       <title>Assessing coverage of community-based management of acute malnutrition</title>
-      <link>https://ernest.guevarra.io/talk/nie_lshtm_2019/</link>
+      <link>/talk/nie_lshtm_2019/</link>
       <pubDate>Tue, 05 Mar 2019 09:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/talk/nie_lshtm_2019/</guid>
+      <guid>/talk/nie_lshtm_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A single coverage estimator for use in SQUEAC, SLEAC, and other CMAM coverage assessments</title>
-      <link>https://ernest.guevarra.io/publication/balegamire2015ud/</link>
+      <link>/publication/balegamire2015ud/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/publication/balegamire2015ud/</guid>
+      <guid>/publication/balegamire2015ud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blockages to preventing malnutrition in Kambia, Sierra Leone: A Semi-quantitative causal analysis</title>
-      <link>https://ernest.guevarra.io/publication/binns2014wt/</link>
+      <link>/publication/binns2014wt/</link>
       <pubDate>Fri, 18 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/publication/binns2014wt/</guid>
+      <guid>/publication/binns2014wt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semi-Quantitative Evaluation of Access and Coverage (SQUEAC) / Simplified Lot Quality Assurance Sampling Evaluation of Access and Coverage (SLEAC) Technical Reference</title>
-      <link>https://ernest.guevarra.io/publication/myatt2012tta/</link>
+      <link>/publication/myatt2012tta/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/publication/myatt2012tta/</guid>
+      <guid>/publication/myatt2012tta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using SLEAC as a wide-area survey method</title>
-      <link>https://ernest.guevarra.io/publication/guevarra2012ui/</link>
+      <link>/publication/guevarra2012ui/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/publication/guevarra2012ui/</guid>
+      <guid>/publication/guevarra2012ui/</guid>
       <description></description>
     </item>
     

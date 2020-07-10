@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paul Binns | Ernest Guevarra</title>
-    <link>https://ernest.guevarra.io/authors/paul-binns/</link>
-      <atom:link href="https://ernest.guevarra.io/authors/paul-binns/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/paul-binns/</link>
+      <atom:link href="/authors/paul-binns/index.xml" rel="self" type="application/rss+xml" />
     <description>Paul Binns</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2020</copyright><lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ernest.guevarra.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Paul Binns</title>
-      <link>https://ernest.guevarra.io/authors/paul-binns/</link>
+      <link>/authors/paul-binns/</link>
     </image>
     
     <item>
       <title>A single coverage estimator for use in SQUEAC, SLEAC, and other CMAM coverage assessments</title>
-      <link>https://ernest.guevarra.io/publication/balegamire2015ud/</link>
+      <link>/publication/balegamire2015ud/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/publication/balegamire2015ud/</guid>
+      <guid>/publication/balegamire2015ud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blockages to preventing malnutrition in Kambia, Sierra Leone: A Semi-quantitative causal analysis</title>
-      <link>https://ernest.guevarra.io/publication/binns2014wt/</link>
+      <link>/publication/binns2014wt/</link>
       <pubDate>Fri, 18 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/publication/binns2014wt/</guid>
+      <guid>/publication/binns2014wt/</guid>
       <description></description>
     </item>
     

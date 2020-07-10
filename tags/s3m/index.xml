@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S3M | Ernest Guevarra</title>
-    <link>https://ernest.guevarra.io/tags/s3m/</link>
-      <atom:link href="https://ernest.guevarra.io/tags/s3m/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/s3m/</link>
+      <atom:link href="/tags/s3m/index.xml" rel="self" type="application/rss+xml" />
     <description>S3M</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2020</copyright><lastBuildDate>Tue, 05 Mar 2019 09:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ernest.guevarra.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>S3M</title>
-      <link>https://ernest.guevarra.io/tags/s3m/</link>
+      <link>/tags/s3m/</link>
     </image>
     
     <item>
       <title>Assessing coverage of community-based management of acute malnutrition</title>
-      <link>https://ernest.guevarra.io/talk/nie_lshtm_2019/</link>
+      <link>/talk/nie_lshtm_2019/</link>
       <pubDate>Tue, 05 Mar 2019 09:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/talk/nie_lshtm_2019/</guid>
+      <guid>/talk/nie_lshtm_2019/</guid>
       <description></description>
     </item>
     

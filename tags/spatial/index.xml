@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>spatial | Ernest Guevarra</title>
-    <link>https://ernest.guevarra.io/tags/spatial/</link>
-      <atom:link href="https://ernest.guevarra.io/tags/spatial/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/spatial/</link>
+      <atom:link href="/tags/spatial/index.xml" rel="self" type="application/rss+xml" />
     <description>spatial</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2020</copyright><lastBuildDate>Sun, 29 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ernest.guevarra.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>spatial</title>
-      <link>https://ernest.guevarra.io/tags/spatial/</link>
+      <link>/tags/spatial/</link>
     </image>
     
     <item>
       <title>SpatialWorks</title>
-      <link>https://ernest.guevarra.io/project/spatialworks/</link>
+      <link>/project/spatialworks/</link>
       <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/project/spatialworks/</guid>
+      <guid>/project/spatialworks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Household Coverage of Fortified Staple Food Commodities in Rajasthan, India</title>
-      <link>https://ernest.guevarra.io/publication/aaron2016cx/</link>
+      <link>/publication/aaron2016cx/</link>
       <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/publication/aaron2016cx/</guid>
+      <guid>/publication/aaron2016cx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessing Program Coverage of Two Approaches to Distributing a Complementary Feeding Supplement to Infants and Young Children in Ghana</title>
-      <link>https://ernest.guevarra.io/publication/aaron2016cv/</link>
+      <link>/publication/aaron2016cv/</link>
       <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/publication/aaron2016cv/</guid>
+      <guid>/publication/aaron2016cv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IYCF assessment with small-sample surveys - A proposal for a simplified and structured approach</title>
-      <link>https://ernest.guevarra.io/publication/guevarra2016uw/</link>
+      <link>/publication/guevarra2016uw/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/publication/guevarra2016uw/</guid>
+      <guid>/publication/guevarra2016uw/</guid>
       <description></description>
     </item>
     

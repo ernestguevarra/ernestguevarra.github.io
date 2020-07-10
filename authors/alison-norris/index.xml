@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alison Norris | Ernest Guevarra</title>
-    <link>https://ernest.guevarra.io/authors/alison-norris/</link>
-      <atom:link href="https://ernest.guevarra.io/authors/alison-norris/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/alison-norris/</link>
+      <atom:link href="/authors/alison-norris/index.xml" rel="self" type="application/rss+xml" />
     <description>Alison Norris</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2020</copyright><lastBuildDate>Wed, 19 Oct 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ernest.guevarra.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Alison Norris</title>
-      <link>https://ernest.guevarra.io/authors/alison-norris/</link>
+      <link>/authors/alison-norris/</link>
     </image>
     
     <item>
       <title>Household Coverage of Fortified Staple Food Commodities in Rajasthan, India</title>
-      <link>https://ernest.guevarra.io/publication/aaron2016cx/</link>
+      <link>/publication/aaron2016cx/</link>
       <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/publication/aaron2016cx/</guid>
+      <guid>/publication/aaron2016cx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessing Program Coverage of Two Approaches to Distributing a Complementary Feeding Supplement to Infants and Young Children in Ghana</title>
-      <link>https://ernest.guevarra.io/publication/aaron2016cv/</link>
+      <link>/publication/aaron2016cv/</link>
       <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/publication/aaron2016cv/</guid>
+      <guid>/publication/aaron2016cv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessing Coverage of Targeted and Large-scale Fortification Programs: Development of a Fortification Assessment Coverage Tool (FACT)</title>
-      <link>https://ernest.guevarra.io/publication/aaron2015bi/</link>
+      <link>/publication/aaron2015bi/</link>
       <pubDate>Fri, 14 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/publication/aaron2015bi/</guid>
+      <guid>/publication/aaron2015bi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A single coverage estimator for use in SQUEAC, SLEAC, and other CMAM coverage assessments</title>
-      <link>https://ernest.guevarra.io/publication/balegamire2015ud/</link>
+      <link>/publication/balegamire2015ud/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/publication/balegamire2015ud/</guid>
+      <guid>/publication/balegamire2015ud/</guid>
       <description></description>
     </item>
     

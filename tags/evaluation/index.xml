@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>evaluation | Ernest Guevarra</title>
-    <link>https://ernest.guevarra.io/tags/evaluation/</link>
-      <atom:link href="https://ernest.guevarra.io/tags/evaluation/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/evaluation/</link>
+      <atom:link href="/tags/evaluation/index.xml" rel="self" type="application/rss+xml" />
     <description>evaluation</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2020</copyright><lastBuildDate>Tue, 21 Jan 2020 09:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ernest.guevarra.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>evaluation</title>
-      <link>https://ernest.guevarra.io/tags/evaluation/</link>
+      <link>/tags/evaluation/</link>
     </image>
     
     <item>
       <title>Overview of Evaluation Methods</title>
-      <link>https://ernest.guevarra.io/talk/ihtm_evaluation_2020/</link>
+      <link>/talk/ihtm_evaluation_2020/</link>
       <pubDate>Tue, 21 Jan 2020 09:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/talk/ihtm_evaluation_2020/</guid>
+      <guid>/talk/ihtm_evaluation_2020/</guid>
       <description></description>
     </item>
     

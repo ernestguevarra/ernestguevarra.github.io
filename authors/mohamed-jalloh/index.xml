@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mohamed Jalloh | Ernest Guevarra</title>
-    <link>https://ernest.guevarra.io/authors/mohamed-jalloh/</link>
-      <atom:link href="https://ernest.guevarra.io/authors/mohamed-jalloh/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/mohamed-jalloh/</link>
+      <atom:link href="/authors/mohamed-jalloh/index.xml" rel="self" type="application/rss+xml" />
     <description>Mohamed Jalloh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2020</copyright><lastBuildDate>Fri, 18 Jul 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ernest.guevarra.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Mohamed Jalloh</title>
-      <link>https://ernest.guevarra.io/authors/mohamed-jalloh/</link>
+      <link>/authors/mohamed-jalloh/</link>
     </image>
     
     <item>
       <title>Blockages to preventing malnutrition in Kambia, Sierra Leone: A Semi-quantitative causal analysis</title>
-      <link>https://ernest.guevarra.io/publication/binns2014wt/</link>
+      <link>/publication/binns2014wt/</link>
       <pubDate>Fri, 18 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/publication/binns2014wt/</guid>
+      <guid>/publication/binns2014wt/</guid>
       <description></description>
     </item>
     

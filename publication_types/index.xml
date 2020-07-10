@@ -2,63 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | Ernest Guevarra</title>
-    <link>https://ernest.guevarra.io/publication_types/</link>
-      <atom:link href="https://ernest.guevarra.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication_types/</link>
+      <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ernest.guevarra.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Publication_types</title>
-      <link>https://ernest.guevarra.io/publication_types/</link>
+      <link>/publication_types/</link>
     </image>
-    
-    <item>
-      <title>4</title>
-      <link>https://ernest.guevarra.io/publication_types/4/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/publication_types/4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2</title>
-      <link>https://ernest.guevarra.io/publication_types/2/</link>
-      <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/publication_types/2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>1</title>
-      <link>https://ernest.guevarra.io/publication_types/1/</link>
-      <pubDate>Fri, 14 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/publication_types/1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>0</title>
-      <link>https://ernest.guevarra.io/publication_types/0/</link>
-      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/publication_types/0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>3</title>
-      <link>https://ernest.guevarra.io/publication_types/3/</link>
-      <pubDate>Fri, 18 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/publication_types/3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>5</title>
-      <link>https://ernest.guevarra.io/publication_types/5/</link>
-      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://ernest.guevarra.io/publication_types/5/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
