@@ -33,6 +33,11 @@
   </url>
   
   <url>
+    <loc>/</loc>
+    <lastmod>2020-07-09T23:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/ernestguevarra/</loc>
     <lastmod>2020-07-09T23:30:00+00:00</lastmod>
   </url>
@@ -190,11 +195,6 @@
   <url>
     <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
