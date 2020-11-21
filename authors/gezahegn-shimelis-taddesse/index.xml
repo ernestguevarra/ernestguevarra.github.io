@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gezahegn Shimelis Taddesse | Ernest Guevarra</title>
-    <link>/authors/gezahegn-shimelis-taddesse/</link>
-      <atom:link href="/authors/gezahegn-shimelis-taddesse/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ernest.guevarra.io/authors/gezahegn-shimelis-taddesse/</link>
+      <atom:link href="https://ernest.guevarra.io/authors/gezahegn-shimelis-taddesse/index.xml" rel="self" type="application/rss+xml" />
     <description>Gezahegn Shimelis Taddesse</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2020</copyright><lastBuildDate>Tue, 01 Apr 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://ernest.guevarra.io/img/icon-192.png</url>
       <title>Gezahegn Shimelis Taddesse</title>
-      <link>/authors/gezahegn-shimelis-taddesse/</link>
+      <link>https://ernest.guevarra.io/authors/gezahegn-shimelis-taddesse/</link>
     </image>
     
     <item>
       <title>IYCF assessment with small-sample surveys - A proposal for a simplified and structured approach</title>
-      <link>/publication/guevarra2016uw/</link>
+      <link>https://ernest.guevarra.io/publication/guevarra2016uw/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/guevarra2016uw/</guid>
+      <guid>https://ernest.guevarra.io/publication/guevarra2016uw/</guid>
       <description></description>
     </item>
     

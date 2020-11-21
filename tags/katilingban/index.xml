@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>katilingban | Ernest Guevarra</title>
-    <link>/tags/katilingban/</link>
-      <atom:link href="/tags/katilingban/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ernest.guevarra.io/tags/katilingban/</link>
+      <atom:link href="https://ernest.guevarra.io/tags/katilingban/index.xml" rel="self" type="application/rss+xml" />
     <description>katilingban</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2020</copyright><lastBuildDate>Fri, 10 Jul 2020 00:30:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://ernest.guevarra.io/img/icon-192.png</url>
       <title>katilingban</title>
-      <link>/tags/katilingban/</link>
+      <link>https://ernest.guevarra.io/tags/katilingban/</link>
     </image>
     
     <item>
       <title>We are Katilingban</title>
-      <link>/post/we-are-katilingban/</link>
+      <link>https://ernest.guevarra.io/post/we-are-katilingban/</link>
       <pubDate>Fri, 10 Jul 2020 00:30:00 +0000</pubDate>
-      <guid>/post/we-are-katilingban/</guid>
+      <guid>https://ernest.guevarra.io/post/we-are-katilingban/</guid>
       <description>
 
 

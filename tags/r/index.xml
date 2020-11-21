@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R | Ernest Guevarra</title>
-    <link>/tags/r/</link>
-      <atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ernest.guevarra.io/tags/r/</link>
+      <atom:link href="https://ernest.guevarra.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     <description>R</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2020</copyright><lastBuildDate>Sun, 29 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://ernest.guevarra.io/img/icon-192.png</url>
       <title>R</title>
-      <link>/tags/r/</link>
+      <link>https://ernest.guevarra.io/tags/r/</link>
     </image>
     
     <item>
       <title>Nutriverse</title>
-      <link>/project/nutriverse/</link>
+      <link>https://ernest.guevarra.io/project/nutriverse/</link>
       <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/project/nutriverse/</guid>
+      <guid>https://ernest.guevarra.io/project/nutriverse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RapidSurveys</title>
-      <link>/project/rapidsurveys/</link>
+      <link>https://ernest.guevarra.io/project/rapidsurveys/</link>
       <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/project/rapidsurveys/</guid>
+      <guid>https://ernest.guevarra.io/project/rapidsurveys/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SpatialWorks</title>
-      <link>/project/spatialworks/</link>
+      <link>https://ernest.guevarra.io/project/spatialworks/</link>
       <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/project/spatialworks/</guid>
+      <guid>https://ernest.guevarra.io/project/spatialworks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ppitables</title>
-      <link>/project/ppitables/</link>
+      <link>https://ernest.guevarra.io/project/ppitables/</link>
       <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>/project/ppitables/</guid>
+      <guid>https://ernest.guevarra.io/project/ppitables/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bbw</title>
-      <link>/project/bbw/</link>
+      <link>https://ernest.guevarra.io/project/bbw/</link>
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/project/bbw/</guid>
+      <guid>https://ernest.guevarra.io/project/bbw/</guid>
       <description></description>
     </item>
     

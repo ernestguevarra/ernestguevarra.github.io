@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ephrem Emru | Ernest Guevarra</title>
-    <link>/authors/ephrem-emru/</link>
-      <atom:link href="/authors/ephrem-emru/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ernest.guevarra.io/authors/ephrem-emru/</link>
+      <atom:link href="https://ernest.guevarra.io/authors/ephrem-emru/index.xml" rel="self" type="application/rss+xml" />
     <description>Ephrem Emru</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2020</copyright><lastBuildDate>Mon, 01 Oct 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://ernest.guevarra.io/img/icon-192.png</url>
       <title>Ephrem Emru</title>
-      <link>/authors/ephrem-emru/</link>
+      <link>https://ernest.guevarra.io/authors/ephrem-emru/</link>
     </image>
     
     <item>
       <title>Semi-Quantitative Evaluation of Access and Coverage (SQUEAC) / Simplified Lot Quality Assurance Sampling Evaluation of Access and Coverage (SLEAC) Technical Reference</title>
-      <link>/publication/myatt2012tta/</link>
+      <link>https://ernest.guevarra.io/publication/myatt2012tta/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/myatt2012tta/</guid>
+      <guid>https://ernest.guevarra.io/publication/myatt2012tta/</guid>
       <description></description>
     </item>
     
