@@ -5,12 +5,38 @@
     <link>https://ernest.guevarra.io/post/</link>
       <atom:link href="https://ernest.guevarra.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2020</copyright><lastBuildDate>Sun, 22 Nov 2020 00:30:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2020</copyright><lastBuildDate>Fri, 27 Nov 2020 22:30:00 +0000</lastBuildDate>
     <image>
       <url>https://ernest.guevarra.io/img/icon-192.png</url>
       <title>Posts</title>
       <link>https://ernest.guevarra.io/post/</link>
     </image>
+    
+    <item>
+      <title>oxcgrt: An Interface to the Oxford COVID-19 Government Response Tracker API</title>
+      <link>https://ernest.guevarra.io/post/oxford-covid19-government-response-tracker/</link>
+      <pubDate>Fri, 27 Nov 2020 22:30:00 +0000</pubDate>
+      <guid>https://ernest.guevarra.io/post/oxford-covid19-government-response-tracker/</guid>
+      <description>
+&lt;link href=&#34;index_files/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;index_files/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;The &lt;a href=&#34;https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker&#34;&gt;Oxford COVID-19 Government Response Tracker (OxCGRT)&lt;/a&gt; tracks and compares worldwide government responses to the COVID-19 pandemic rigorously and consistently. &lt;a href=&#34;https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker&#34;&gt;OxCGRT&lt;/a&gt; makes available systematic information in a consistent way, aiding those who require information have access to it efficiently. This package facilitates access to the &lt;a href=&#34;https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker&#34;&gt;OxCGRT&lt;/a&gt; data for &lt;a href=&#34;https://cran.r-project.org&#34;&gt;R&lt;/a&gt; users via version 2 of its API. This package also includes functions to calculate the various &lt;a href=&#34;https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker&#34;&gt;OxCGRT&lt;/a&gt; indices in &lt;a href=&#34;https://cran.r-project.org&#34;&gt;R&lt;/a&gt;. This package is aimed at &lt;a href=&#34;https://cran.r-project.org&#34;&gt;R&lt;/a&gt; users who use or plan to use the &lt;a href=&#34;https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker&#34;&gt;OxCGRT&lt;/a&gt; data for their research or for other academic purposes or who develop or want to develop other metrics or indices that build on the &lt;a href=&#34;https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker&#34;&gt;OxCGRT&lt;/a&gt; approach.&lt;/p&gt;
+&lt;div id=&#34;what-does-oxcgrt-do&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;What does &lt;code&gt;oxcgrt&lt;/code&gt; do?&lt;/h2&gt;
+&lt;p&gt;The &lt;code&gt;oxcgrt&lt;/code&gt; package has two main sets of functions that:&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;p&gt;Retrieve &lt;a href=&#34;https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker&#34;&gt;OxCGRT&lt;/a&gt; data (&lt;code&gt;get_*&lt;/code&gt; functions) via version 2 of its API; and,&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Calculate various &lt;a href=&#34;https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker&#34;&gt;OxCGRT&lt;/a&gt; &lt;a href=&#34;https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/index_methodology.md&#34;&gt;indicators, sub-indices and indices&lt;/a&gt; (&lt;code&gt;calculate_*&lt;/code&gt; functions).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;There are other &lt;a href=&#34;https://cran.r-project.org&#34;&gt;R&lt;/a&gt; packages that provide access to data from the &lt;a href=&#34;https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker&#34;&gt;OxCGRT&lt;/a&gt;. The &lt;a href=&#34;https://cran.r-project.org/package=COVID19&#34;&gt;&lt;code&gt;COVID19&lt;/code&gt; package&lt;/a&gt; and the &lt;a href=&#34;https://como-ph.github.io/oxcovid19/&#34;&gt;&lt;code&gt;oxcovid19&lt;/code&gt; package&lt;/a&gt; are just two examples of these. However, all these packages provide access to the &lt;a href=&#34;https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker&#34;&gt;OxCGRT&lt;/a&gt; data as &lt;em&gt;data dumps&lt;/em&gt; and only for the time-series of the stringency index per country. To our knowledge, the &lt;code&gt;oxcgrt&lt;/code&gt; package is the only &lt;a href=&#34;https://cran.r-project.org&#34;&gt;R&lt;/a&gt; package currently that provides an interface to the available API for querying and retrieving data. Also, the &lt;code&gt;oxcgrt&lt;/code&gt; package provides functions to calculate the &lt;a href=&#34;https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker&#34;&gt;OxCGRT&lt;/a&gt; sub-indices and indices based on their methodology. None of the other &lt;a href=&#34;https://cran.r-project.org&#34;&gt;R&lt;/a&gt; packages that we have seen and reviewed have this functionality.&lt;/p&gt;
+&lt;p&gt;To learn more about the &lt;code&gt;oxcgrt&lt;/code&gt; package - how to install in &lt;a href=&#34;https://cran.r-project.org&#34;&gt;R&lt;/a&gt;, how to use the package, and how to contribute to its development and testing - visit the package website at &lt;a href=&#34;https://como-ph.github.io/oxcgrt&#34;&gt;https://como-ph.github.io/oxcgrt&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>covidphdata: An Interface to the Philippines Department of Health COVID-19 Data Drop</title>
