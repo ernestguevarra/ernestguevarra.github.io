@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emmanuel Mandalazi | Ernest Guevarra</title>
-    <link>/authors/emmanuel-mandalazi/</link>
-      <atom:link href="/authors/emmanuel-mandalazi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ernest.guevarra.io/authors/emmanuel-mandalazi/</link>
+      <atom:link href="https://ernest.guevarra.io/authors/emmanuel-mandalazi/index.xml" rel="self" type="application/rss+xml" />
     <description>Emmanuel Mandalazi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://ernest.guevarra.io/img/icon-192.png</url>
       <title>Emmanuel Mandalazi</title>
-      <link>/authors/emmanuel-mandalazi/</link>
+      <link>https://ernest.guevarra.io/authors/emmanuel-mandalazi/</link>
     </image>
     
     <item>
       <title>Impact evaluation of the World Food Programme&#39;s moderate acute malnutrition treatment and prevention programmes in Sudan</title>
-      <link>/publication/guevarra2018ie/</link>
+      <link>https://ernest.guevarra.io/publication/guevarra2018ie/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/guevarra2018ie/</guid>
+      <guid>https://ernest.guevarra.io/publication/guevarra2018ie/</guid>
       <description></description>
     </item>
     

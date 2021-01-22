@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>0 | Ernest Guevarra</title>
-    <link>/publication_types/0/</link>
-      <atom:link href="/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ernest.guevarra.io/publication_types/0/</link>
+      <atom:link href="https://ernest.guevarra.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2020</copyright><lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://ernest.guevarra.io/img/icon-192.png</url>
       <title>0</title>
-      <link>/publication_types/0/</link>
+      <link>https://ernest.guevarra.io/publication_types/0/</link>
     </image>
     
     <item>
       <title>A single coverage estimator for use in SQUEAC, SLEAC, and other CMAM coverage assessments</title>
-      <link>/publication/balegamire2015ud/</link>
+      <link>https://ernest.guevarra.io/publication/balegamire2015ud/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/balegamire2015ud/</guid>
+      <guid>https://ernest.guevarra.io/publication/balegamire2015ud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IYCF assessment with small-sample surveys - A proposal for a simplified and structured approach</title>
-      <link>/publication/guevarra2016uw/</link>
+      <link>https://ernest.guevarra.io/publication/guevarra2016uw/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/guevarra2016uw/</guid>
+      <guid>https://ernest.guevarra.io/publication/guevarra2016uw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using SLEAC as a wide-area survey method</title>
-      <link>/publication/guevarra2012ui/</link>
+      <link>https://ernest.guevarra.io/publication/guevarra2012ui/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/guevarra2012ui/</guid>
+      <guid>https://ernest.guevarra.io/publication/guevarra2012ui/</guid>
       <description></description>
     </item>
     

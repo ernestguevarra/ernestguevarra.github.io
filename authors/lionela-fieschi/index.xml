@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lionela Fieschi | Ernest Guevarra</title>
-    <link>/authors/lionela-fieschi/</link>
-      <atom:link href="/authors/lionela-fieschi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ernest.guevarra.io/authors/lionela-fieschi/</link>
+      <atom:link href="https://ernest.guevarra.io/authors/lionela-fieschi/index.xml" rel="self" type="application/rss+xml" />
     <description>Lionela Fieschi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2020</copyright><lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://ernest.guevarra.io/img/icon-192.png</url>
       <title>Lionela Fieschi</title>
-      <link>/authors/lionela-fieschi/</link>
+      <link>https://ernest.guevarra.io/authors/lionela-fieschi/</link>
     </image>
     
     <item>
       <title>A single coverage estimator for use in SQUEAC, SLEAC, and other CMAM coverage assessments</title>
-      <link>/publication/balegamire2015ud/</link>
+      <link>https://ernest.guevarra.io/publication/balegamire2015ud/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/balegamire2015ud/</guid>
+      <guid>https://ernest.guevarra.io/publication/balegamire2015ud/</guid>
       <description></description>
     </item>
     

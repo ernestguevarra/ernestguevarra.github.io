@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>food fortification | Ernest Guevarra</title>
-    <link>/tags/food-fortification/</link>
-      <atom:link href="/tags/food-fortification/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ernest.guevarra.io/tags/food-fortification/</link>
+      <atom:link href="https://ernest.guevarra.io/tags/food-fortification/index.xml" rel="self" type="application/rss+xml" />
     <description>food fortification</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2020</copyright><lastBuildDate>Wed, 19 Oct 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://ernest.guevarra.io/img/icon-192.png</url>
       <title>food fortification</title>
-      <link>/tags/food-fortification/</link>
+      <link>https://ernest.guevarra.io/tags/food-fortification/</link>
     </image>
     
     <item>
       <title>Household Coverage of Fortified Staple Food Commodities in Rajasthan, India</title>
-      <link>/publication/aaron2016cx/</link>
+      <link>https://ernest.guevarra.io/publication/aaron2016cx/</link>
       <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/aaron2016cx/</guid>
+      <guid>https://ernest.guevarra.io/publication/aaron2016cx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessing Coverage of Targeted and Large-scale Fortification Programs: Development of a Fortification Assessment Coverage Tool (FACT)</title>
-      <link>/publication/aaron2015bi/</link>
+      <link>https://ernest.guevarra.io/publication/aaron2015bi/</link>
       <pubDate>Fri, 14 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/aaron2015bi/</guid>
+      <guid>https://ernest.guevarra.io/publication/aaron2015bi/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>causal analysis | Ernest Guevarra</title>
-    <link>/tags/causal-analysis/</link>
-      <atom:link href="/tags/causal-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ernest.guevarra.io/tags/causal-analysis/</link>
+      <atom:link href="https://ernest.guevarra.io/tags/causal-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>causal analysis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2020</copyright><lastBuildDate>Fri, 18 Jul 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://ernest.guevarra.io/img/icon-192.png</url>
       <title>causal analysis</title>
-      <link>/tags/causal-analysis/</link>
+      <link>https://ernest.guevarra.io/tags/causal-analysis/</link>
     </image>
     
     <item>
       <title>Blockages to preventing malnutrition in Kambia, Sierra Leone: A Semi-quantitative causal analysis</title>
-      <link>/publication/binns2014wt/</link>
+      <link>https://ernest.guevarra.io/publication/binns2014wt/</link>
       <pubDate>Fri, 18 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/binns2014wt/</guid>
+      <guid>https://ernest.guevarra.io/publication/binns2014wt/</guid>
       <description></description>
     </item>
     

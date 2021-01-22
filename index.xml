@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ernest Guevarra</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ernest.guevarra.io/</link>
+      <atom:link href="https://ernest.guevarra.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Ernest Guevarra</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2020</copyright><lastBuildDate>Fri, 10 Jul 2020 00:30:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://ernest.guevarra.io/img/icon-192.png</url>
       <title>Ernest Guevarra</title>
-      <link>/</link>
+      <link>https://ernest.guevarra.io/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>/courses/example/example1/</link>
+      <link>https://ernest.guevarra.io/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/example/example1/</guid>
+      <guid>https://ernest.guevarra.io/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>/courses/example/example2/</link>
+      <link>https://ernest.guevarra.io/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/example/example2/</guid>
+      <guid>https://ernest.guevarra.io/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>We are Katilingban</title>
-      <link>/post/we-are-katilingban/</link>
+      <link>https://ernest.guevarra.io/post/we-are-katilingban/</link>
       <pubDate>Fri, 10 Jul 2020 00:30:00 +0000</pubDate>
-      <guid>/post/we-are-katilingban/</guid>
+      <guid>https://ernest.guevarra.io/post/we-are-katilingban/</guid>
       <description>
 
 
@@ -76,49 +76,49 @@
     
     <item>
       <title>Overview of Evaluation Methods</title>
-      <link>/talk/ihtm_evaluation_2020/</link>
+      <link>https://ernest.guevarra.io/talk/ihtm_evaluation_2020/</link>
       <pubDate>Tue, 21 Jan 2020 09:00:00 +0000</pubDate>
-      <guid>/talk/ihtm_evaluation_2020/</guid>
+      <guid>https://ernest.guevarra.io/talk/ihtm_evaluation_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nutriverse</title>
-      <link>/project/nutriverse/</link>
+      <link>https://ernest.guevarra.io/project/nutriverse/</link>
       <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/project/nutriverse/</guid>
+      <guid>https://ernest.guevarra.io/project/nutriverse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RapidSurveys</title>
-      <link>/project/rapidsurveys/</link>
+      <link>https://ernest.guevarra.io/project/rapidsurveys/</link>
       <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/project/rapidsurveys/</guid>
+      <guid>https://ernest.guevarra.io/project/rapidsurveys/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SpatialWorks</title>
-      <link>/project/spatialworks/</link>
+      <link>https://ernest.guevarra.io/project/spatialworks/</link>
       <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/project/spatialworks/</guid>
+      <guid>https://ernest.guevarra.io/project/spatialworks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessing coverage of community-based management of acute malnutrition</title>
-      <link>/talk/nie_lshtm_2019/</link>
+      <link>https://ernest.guevarra.io/talk/nie_lshtm_2019/</link>
       <pubDate>Tue, 05 Mar 2019 09:00:00 +0000</pubDate>
-      <guid>/talk/nie_lshtm_2019/</guid>
+      <guid>https://ernest.guevarra.io/talk/nie_lshtm_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>/slides/example/</link>
+      <link>https://ernest.guevarra.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/example/</guid>
+      <guid>https://ernest.guevarra.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;Academic&lt;/a&gt; | &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -244,108 +244,90 @@ Three
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>ppitables</title>
-      <link>/project/ppitables/</link>
+      <link>https://ernest.guevarra.io/project/ppitables/</link>
       <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>/project/ppitables/</guid>
+      <guid>https://ernest.guevarra.io/project/ppitables/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bbw</title>
-      <link>/project/bbw/</link>
+      <link>https://ernest.guevarra.io/project/bbw/</link>
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/project/bbw/</guid>
+      <guid>https://ernest.guevarra.io/project/bbw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impact evaluation of the World Food Programme&#39;s moderate acute malnutrition treatment and prevention programmes in Sudan</title>
-      <link>/publication/guevarra2018ie/</link>
+      <link>https://ernest.guevarra.io/publication/guevarra2018ie/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/guevarra2018ie/</guid>
+      <guid>https://ernest.guevarra.io/publication/guevarra2018ie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Household Coverage of Fortified Staple Food Commodities in Rajasthan, India</title>
-      <link>/publication/aaron2016cx/</link>
+      <link>https://ernest.guevarra.io/publication/aaron2016cx/</link>
       <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/aaron2016cx/</guid>
+      <guid>https://ernest.guevarra.io/publication/aaron2016cx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessing Program Coverage of Two Approaches to Distributing a Complementary Feeding Supplement to Infants and Young Children in Ghana</title>
-      <link>/publication/aaron2016cv/</link>
+      <link>https://ernest.guevarra.io/publication/aaron2016cv/</link>
       <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/aaron2016cv/</guid>
+      <guid>https://ernest.guevarra.io/publication/aaron2016cv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessing Coverage of Targeted and Large-scale Fortification Programs: Development of a Fortification Assessment Coverage Tool (FACT)</title>
-      <link>/publication/aaron2015bi/</link>
+      <link>https://ernest.guevarra.io/publication/aaron2015bi/</link>
       <pubDate>Fri, 14 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/aaron2015bi/</guid>
+      <guid>https://ernest.guevarra.io/publication/aaron2015bi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A single coverage estimator for use in SQUEAC, SLEAC, and other CMAM coverage assessments</title>
-      <link>/publication/balegamire2015ud/</link>
+      <link>https://ernest.guevarra.io/publication/balegamire2015ud/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/balegamire2015ud/</guid>
+      <guid>https://ernest.guevarra.io/publication/balegamire2015ud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blockages to preventing malnutrition in Kambia, Sierra Leone: A Semi-quantitative causal analysis</title>
-      <link>/publication/binns2014wt/</link>
+      <link>https://ernest.guevarra.io/publication/binns2014wt/</link>
       <pubDate>Fri, 18 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/binns2014wt/</guid>
+      <guid>https://ernest.guevarra.io/publication/binns2014wt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IYCF assessment with small-sample surveys - A proposal for a simplified and structured approach</title>
-      <link>/publication/guevarra2016uw/</link>
+      <link>https://ernest.guevarra.io/publication/guevarra2016uw/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/guevarra2016uw/</guid>
+      <guid>https://ernest.guevarra.io/publication/guevarra2016uw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semi-Quantitative Evaluation of Access and Coverage (SQUEAC) / Simplified Lot Quality Assurance Sampling Evaluation of Access and Coverage (SLEAC) Technical Reference</title>
-      <link>/publication/myatt2012tta/</link>
+      <link>https://ernest.guevarra.io/publication/myatt2012tta/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/myatt2012tta/</guid>
+      <guid>https://ernest.guevarra.io/publication/myatt2012tta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using SLEAC as a wide-area survey method</title>
-      <link>/publication/guevarra2012ui/</link>
+      <link>https://ernest.guevarra.io/publication/guevarra2012ui/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/guevarra2012ui/</guid>
+      <guid>https://ernest.guevarra.io/publication/guevarra2012ui/</guid>
       <description></description>
     </item>
     

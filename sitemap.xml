@@ -3,662 +3,652 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/example1/</loc>
+    <loc>https://ernest.guevarra.io/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/</loc>
+    <loc>https://ernest.guevarra.io/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/example2/</loc>
+    <loc>https://ernest.guevarra.io/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/announcement/</loc>
+    <loc>https://ernest.guevarra.io/categories/announcement/</loc>
     <lastmod>2020-07-09T23:30:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://ernest.guevarra.io/authors/</loc>
     <lastmod>2020-07-09T23:30:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://ernest.guevarra.io/categories/</loc>
     <lastmod>2020-07-09T23:30:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://ernest.guevarra.io/</loc>
     <lastmod>2020-07-09T23:30:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/ernestguevarra/</loc>
+    <loc>https://ernest.guevarra.io/authors/ernestguevarra/</loc>
     <lastmod>2020-07-09T23:30:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/katilingban/</loc>
+    <loc>https://ernest.guevarra.io/tags/katilingban/</loc>
     <lastmod>2020-07-09T23:30:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/nutrition/</loc>
+    <loc>https://ernest.guevarra.io/tags/nutrition/</loc>
     <lastmod>2020-07-09T23:30:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://ernest.guevarra.io/post/</loc>
     <lastmod>2020-07-09T23:30:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/public-health/</loc>
+    <loc>https://ernest.guevarra.io/tags/public-health/</loc>
     <lastmod>2020-07-09T23:30:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://ernest.guevarra.io/tags/</loc>
     <lastmod>2020-07-09T23:30:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/we-are-katilingban/</loc>
+    <loc>https://ernest.guevarra.io/post/we-are-katilingban/</loc>
     <lastmod>2020-07-09T23:30:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>https://ernest.guevarra.io/authors/admin/</loc>
     <lastmod>2020-01-21T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/assessment/</loc>
+    <loc>https://ernest.guevarra.io/tags/assessment/</loc>
     <lastmod>2020-01-21T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/coverage/</loc>
+    <loc>https://ernest.guevarra.io/tags/coverage/</loc>
     <lastmod>2020-01-21T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/evaluation/</loc>
+    <loc>https://ernest.guevarra.io/tags/evaluation/</loc>
     <lastmod>2020-01-21T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/ihtm_evaluation_2020/</loc>
+    <loc>https://ernest.guevarra.io/talk/ihtm_evaluation_2020/</loc>
     <lastmod>2020-01-21T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>https://ernest.guevarra.io/talk/</loc>
     <lastmod>2020-01-21T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/analysis/</loc>
+    <loc>https://ernest.guevarra.io/tags/analysis/</loc>
     <lastmod>2019-12-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/anthropometry/</loc>
+    <loc>https://ernest.guevarra.io/tags/anthropometry/</loc>
     <lastmod>2019-12-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/health/</loc>
+    <loc>https://ernest.guevarra.io/tags/health/</loc>
     <lastmod>2019-12-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/nutriverse/</loc>
+    <loc>https://ernest.guevarra.io/project/nutriverse/</loc>
     <lastmod>2019-12-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>https://ernest.guevarra.io/project/</loc>
     <lastmod>2019-12-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/r/</loc>
+    <loc>https://ernest.guevarra.io/tags/r/</loc>
     <lastmod>2019-12-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/rapidsurveys/</loc>
+    <loc>https://ernest.guevarra.io/project/rapidsurveys/</loc>
     <lastmod>2019-12-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/spatial/</loc>
+    <loc>https://ernest.guevarra.io/tags/spatial/</loc>
     <lastmod>2019-12-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/spatialworks/</loc>
+    <loc>https://ernest.guevarra.io/project/spatialworks/</loc>
     <lastmod>2019-12-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/surveys/</loc>
+    <loc>https://ernest.guevarra.io/tags/surveys/</loc>
     <lastmod>2019-12-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/</loc>
+    <loc>https://ernest.guevarra.io/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/nie_lshtm_2019/</loc>
+    <loc>https://ernest.guevarra.io/talk/nie_lshtm_2019/</loc>
     <lastmod>2019-03-05T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/cmam/</loc>
+    <loc>https://ernest.guevarra.io/tags/cmam/</loc>
     <lastmod>2019-03-05T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/csas/</loc>
+    <loc>https://ernest.guevarra.io/tags/csas/</loc>
     <lastmod>2019-03-05T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/s3m/</loc>
+    <loc>https://ernest.guevarra.io/tags/s3m/</loc>
     <lastmod>2019-03-05T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/sleac/</loc>
+    <loc>https://ernest.guevarra.io/tags/sleac/</loc>
     <lastmod>2019-03-05T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/squeac/</loc>
+    <loc>https://ernest.guevarra.io/tags/squeac/</loc>
     <lastmod>2019-03-05T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/</loc>
+    <loc>https://ernest.guevarra.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/example/</loc>
+    <loc>https://ernest.guevarra.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/poverty/</loc>
+    <loc>https://ernest.guevarra.io/tags/poverty/</loc>
     <lastmod>2018-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/ppitables/</loc>
+    <loc>https://ernest.guevarra.io/project/ppitables/</loc>
     <lastmod>2018-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/bbw/</loc>
+    <loc>https://ernest.guevarra.io/project/bbw/</loc>
     <lastmod>2018-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/bootstrap/</loc>
+    <loc>https://ernest.guevarra.io/tags/bootstrap/</loc>
     <lastmod>2018-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/4/</loc>
+    <loc>https://ernest.guevarra.io/publication_types/4/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/emmanuel-mandalazi/</loc>
+    <loc>https://ernest.guevarra.io/authors/emmanuel-mandalazi/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/fbmam/</loc>
+    <loc>https://ernest.guevarra.io/tags/fbmam/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/gloria-urrea/</loc>
+    <loc>https://ernest.guevarra.io/authors/gloria-urrea/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/impact-evaluation/</loc>
+    <loc>https://ernest.guevarra.io/tags/impact-evaluation/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/guevarra2018ie/</loc>
+    <loc>https://ernest.guevarra.io/publication/guevarra2018ie/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/kate-sadler/</loc>
+    <loc>https://ernest.guevarra.io/authors/kate-sadler/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/khalid-abdelsalam/</loc>
+    <loc>https://ernest.guevarra.io/authors/khalid-abdelsalam/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/kristine-albrektsen/</loc>
+    <loc>https://ernest.guevarra.io/authors/kristine-albrektsen/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/mam/</loc>
+    <loc>https://ernest.guevarra.io/tags/mam/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>https://ernest.guevarra.io/publication_types/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>https://ernest.guevarra.io/publication/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/safari-balegamire/</loc>
+    <loc>https://ernest.guevarra.io/authors/safari-balegamire/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/salma-alawad/</loc>
+    <loc>https://ernest.guevarra.io/authors/salma-alawad/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/sudan/</loc>
+    <loc>https://ernest.guevarra.io/tags/sudan/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
+    <loc>https://ernest.guevarra.io/publication_types/2/</loc>
     <lastmod>2016-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/alison-norris/</loc>
+    <loc>https://ernest.guevarra.io/authors/alison-norris/</loc>
     <lastmod>2016-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/food-fortification/</loc>
+    <loc>https://ernest.guevarra.io/tags/food-fortification/</loc>
     <lastmod>2016-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/grant-j.-aaron/</loc>
+    <loc>https://ernest.guevarra.io/authors/grant-j.-aaron/</loc>
     <lastmod>2016-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/aaron2016cx/</loc>
+    <loc>https://ernest.guevarra.io/publication/aaron2016cx/</loc>
     <lastmod>2016-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/india/</loc>
+    <loc>https://ernest.guevarra.io/tags/india/</loc>
     <lastmod>2016-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/john-fairhurst/</loc>
+    <loc>https://ernest.guevarra.io/authors/john-fairhurst/</loc>
     <lastmod>2016-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/katja-siling/</loc>
+    <loc>https://ernest.guevarra.io/authors/katja-siling/</loc>
     <lastmod>2016-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/mark-myatt/</loc>
+    <loc>https://ernest.guevarra.io/authors/mark-myatt/</loc>
     <lastmod>2016-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/prahlad-r.-sodani/</loc>
+    <loc>https://ernest.guevarra.io/authors/prahlad-r.-sodani/</loc>
     <lastmod>2016-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/rajan-sankar/</loc>
+    <loc>https://ernest.guevarra.io/authors/rajan-sankar/</loc>
     <lastmod>2016-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/rajasthan/</loc>
+    <loc>https://ernest.guevarra.io/tags/rajasthan/</loc>
     <lastmod>2016-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/antoine-attiogbe/</loc>
+    <loc>https://ernest.guevarra.io/authors/antoine-attiogbe/</loc>
     <lastmod>2016-10-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/aaron2016cv/</loc>
+    <loc>https://ernest.guevarra.io/publication/aaron2016cv/</loc>
     <lastmod>2016-10-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/complementary-food/</loc>
+    <loc>https://ernest.guevarra.io/tags/complementary-food/</loc>
     <lastmod>2016-10-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/daniel-sarpong/</loc>
+    <loc>https://ernest.guevarra.io/authors/daniel-sarpong/</loc>
     <lastmod>2016-10-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/esi-foriwa/</loc>
+    <loc>https://ernest.guevarra.io/authors/esi-foriwa/</loc>
     <lastmod>2016-10-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/ghana/</loc>
+    <loc>https://ernest.guevarra.io/tags/ghana/</loc>
     <lastmod>2016-10-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/koko-plus/</loc>
+    <loc>https://ernest.guevarra.io/tags/koko-plus/</loc>
     <lastmod>2016-10-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/kwaku-tano-debrah/</loc>
+    <loc>https://ernest.guevarra.io/authors/kwaku-tano-debrah/</loc>
     <lastmod>2016-10-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/mercy-nyamikeh/</loc>
+    <loc>https://ernest.guevarra.io/authors/mercy-nyamikeh/</loc>
     <lastmod>2016-10-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/nathaniel-amoh-boateng/</loc>
+    <loc>https://ernest.guevarra.io/authors/nathaniel-amoh-boateng/</loc>
     <lastmod>2016-10-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/nicholas-strutt/</loc>
+    <loc>https://ernest.guevarra.io/authors/nicholas-strutt/</loc>
     <lastmod>2016-10-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/richard-burns/</loc>
+    <loc>https://ernest.guevarra.io/authors/richard-burns/</loc>
     <lastmod>2016-10-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/satoshi-kitamura/</loc>
+    <loc>https://ernest.guevarra.io/authors/satoshi-kitamura/</loc>
     <lastmod>2016-10-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/shibani-ghosh/</loc>
+    <loc>https://ernest.guevarra.io/authors/shibani-ghosh/</loc>
     <lastmod>2016-10-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/yasuhiko-toride/</loc>
+    <loc>https://ernest.guevarra.io/authors/yasuhiko-toride/</loc>
     <lastmod>2016-10-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/1/</loc>
+    <loc>https://ernest.guevarra.io/publication_types/1/</loc>
     <lastmod>2015-08-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/aaron2015bi/</loc>
+    <loc>https://ernest.guevarra.io/publication/aaron2015bi/</loc>
     <lastmod>2015-08-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/fact/</loc>
+    <loc>https://ernest.guevarra.io/tags/fact/</loc>
     <lastmod>2015-08-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/grant-aaron/</loc>
+    <loc>https://ernest.guevarra.io/authors/grant-aaron/</loc>
     <lastmod>2015-08-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/0/</loc>
+    <loc>https://ernest.guevarra.io/publication_types/0/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/balegamire2015ud/</loc>
+    <loc>https://ernest.guevarra.io/publication/balegamire2015ud/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/coverage-estimator/</loc>
+    <loc>https://ernest.guevarra.io/tags/coverage-estimator/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/jose-luis-alvarez/</loc>
+    <loc>https://ernest.guevarra.io/authors/jose-luis-alvarez/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/lionela-fieschi/</loc>
+    <loc>https://ernest.guevarra.io/authors/lionela-fieschi/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/paul-binns/</loc>
+    <loc>https://ernest.guevarra.io/authors/paul-binns/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/sophie-woodhead/</loc>
+    <loc>https://ernest.guevarra.io/authors/sophie-woodhead/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/3/</loc>
+    <loc>https://ernest.guevarra.io/publication_types/3/</loc>
     <lastmod>2014-07-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/binns2014wt/</loc>
+    <loc>https://ernest.guevarra.io/publication/binns2014wt/</loc>
     <lastmod>2014-07-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/causal-analysis/</loc>
+    <loc>https://ernest.guevarra.io/tags/causal-analysis/</loc>
     <lastmod>2014-07-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/malnutrition/</loc>
+    <loc>https://ernest.guevarra.io/tags/malnutrition/</loc>
     <lastmod>2014-07-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/melrose-tucker/</loc>
+    <loc>https://ernest.guevarra.io/authors/melrose-tucker/</loc>
     <lastmod>2014-07-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/mohamed-jalloh/</loc>
+    <loc>https://ernest.guevarra.io/authors/mohamed-jalloh/</loc>
     <lastmod>2014-07-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/sierra-leone/</loc>
+    <loc>https://ernest.guevarra.io/tags/sierra-leone/</loc>
     <lastmod>2014-07-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/adane-tefera-beyene/</loc>
+    <loc>https://ernest.guevarra.io/authors/adane-tefera-beyene/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/farah-mohamed-ibrahim/</loc>
+    <loc>https://ernest.guevarra.io/authors/farah-mohamed-ibrahim/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/faraja-chiwile/</loc>
+    <loc>https://ernest.guevarra.io/authors/faraja-chiwile/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/gezahegn-shimelis-taddesse/</loc>
+    <loc>https://ernest.guevarra.io/authors/gezahegn-shimelis-taddesse/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/grant-j-aaron/</loc>
+    <loc>https://ernest.guevarra.io/authors/grant-j-aaron/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/hamidine-hassane/</loc>
+    <loc>https://ernest.guevarra.io/authors/hamidine-hassane/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/iycf/</loc>
+    <loc>https://ernest.guevarra.io/tags/iycf/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/guevarra2016uw/</loc>
+    <loc>https://ernest.guevarra.io/publication/guevarra2016uw/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/joseph-senesie/</loc>
+    <loc>https://ernest.guevarra.io/authors/joseph-senesie/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/kazim-lamine/</loc>
+    <loc>https://ernest.guevarra.io/authors/kazim-lamine/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/mara-nyawo/</loc>
+    <loc>https://ernest.guevarra.io/authors/mara-nyawo/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/masresha-tessema-anegago/</loc>
+    <loc>https://ernest.guevarra.io/authors/masresha-tessema-anegago/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/massaoud-williams/</loc>
+    <loc>https://ernest.guevarra.io/authors/massaoud-williams/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/mueni-mutunga/</loc>
+    <loc>https://ernest.guevarra.io/authors/mueni-mutunga/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/pankaj-kumar/</loc>
+    <loc>https://ernest.guevarra.io/authors/pankaj-kumar/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/small-sample/</loc>
+    <loc>https://ernest.guevarra.io/tags/small-sample/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/terefe-getachew-gtsadik/</loc>
+    <loc>https://ernest.guevarra.io/authors/terefe-getachew-gtsadik/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/tesfaye-hailu-bekele/</loc>
+    <loc>https://ernest.guevarra.io/authors/tesfaye-hailu-bekele/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/walton-beckley/</loc>
+    <loc>https://ernest.guevarra.io/authors/walton-beckley/</loc>
     <lastmod>2014-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/5/</loc>
+    <loc>https://ernest.guevarra.io/publication_types/5/</loc>
     <lastmod>2012-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/daniel-jones/</loc>
+    <loc>https://ernest.guevarra.io/authors/daniel-jones/</loc>
     <lastmod>2012-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/ephrem-emru/</loc>
+    <loc>https://ernest.guevarra.io/authors/ephrem-emru/</loc>
     <lastmod>2012-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/lily-schofield/</loc>
+    <loc>https://ernest.guevarra.io/authors/lily-schofield/</loc>
     <lastmod>2012-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/lionella-fieschi/</loc>
+    <loc>https://ernest.guevarra.io/authors/lionella-fieschi/</loc>
     <lastmod>2012-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/saul-guerrero/</loc>
+    <loc>https://ernest.guevarra.io/authors/saul-guerrero/</loc>
     <lastmod>2012-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/myatt2012tta/</loc>
+    <loc>https://ernest.guevarra.io/publication/myatt2012tta/</loc>
     <lastmod>2012-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/guevarra2012ui/</loc>
+    <loc>https://ernest.guevarra.io/publication/guevarra2012ui/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   

@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mark Myatt | Ernest Guevarra</title>
-    <link>/authors/mark-myatt/</link>
-      <atom:link href="/authors/mark-myatt/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ernest.guevarra.io/authors/mark-myatt/</link>
+      <atom:link href="https://ernest.guevarra.io/authors/mark-myatt/index.xml" rel="self" type="application/rss+xml" />
     <description>Mark Myatt</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2020</copyright><lastBuildDate>Wed, 19 Oct 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://ernest.guevarra.io/img/icon-192.png</url>
       <title>Mark Myatt</title>
-      <link>/authors/mark-myatt/</link>
+      <link>https://ernest.guevarra.io/authors/mark-myatt/</link>
     </image>
     
     <item>
       <title>Household Coverage of Fortified Staple Food Commodities in Rajasthan, India</title>
-      <link>/publication/aaron2016cx/</link>
+      <link>https://ernest.guevarra.io/publication/aaron2016cx/</link>
       <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/aaron2016cx/</guid>
+      <guid>https://ernest.guevarra.io/publication/aaron2016cx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessing Program Coverage of Two Approaches to Distributing a Complementary Feeding Supplement to Infants and Young Children in Ghana</title>
-      <link>/publication/aaron2016cv/</link>
+      <link>https://ernest.guevarra.io/publication/aaron2016cv/</link>
       <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/aaron2016cv/</guid>
+      <guid>https://ernest.guevarra.io/publication/aaron2016cv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessing Coverage of Targeted and Large-scale Fortification Programs: Development of a Fortification Assessment Coverage Tool (FACT)</title>
-      <link>/publication/aaron2015bi/</link>
+      <link>https://ernest.guevarra.io/publication/aaron2015bi/</link>
       <pubDate>Fri, 14 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/aaron2015bi/</guid>
+      <guid>https://ernest.guevarra.io/publication/aaron2015bi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A single coverage estimator for use in SQUEAC, SLEAC, and other CMAM coverage assessments</title>
-      <link>/publication/balegamire2015ud/</link>
+      <link>https://ernest.guevarra.io/publication/balegamire2015ud/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/balegamire2015ud/</guid>
+      <guid>https://ernest.guevarra.io/publication/balegamire2015ud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IYCF assessment with small-sample surveys - A proposal for a simplified and structured approach</title>
-      <link>/publication/guevarra2016uw/</link>
+      <link>https://ernest.guevarra.io/publication/guevarra2016uw/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/guevarra2016uw/</guid>
+      <guid>https://ernest.guevarra.io/publication/guevarra2016uw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semi-Quantitative Evaluation of Access and Coverage (SQUEAC) / Simplified Lot Quality Assurance Sampling Evaluation of Access and Coverage (SLEAC) Technical Reference</title>
-      <link>/publication/myatt2012tta/</link>
+      <link>https://ernest.guevarra.io/publication/myatt2012tta/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/myatt2012tta/</guid>
+      <guid>https://ernest.guevarra.io/publication/myatt2012tta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using SLEAC as a wide-area survey method</title>
-      <link>/publication/guevarra2012ui/</link>
+      <link>https://ernest.guevarra.io/publication/guevarra2012ui/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/guevarra2012ui/</guid>
+      <guid>https://ernest.guevarra.io/publication/guevarra2012ui/</guid>
       <description></description>
     </item>
     
