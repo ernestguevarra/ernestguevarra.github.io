@@ -5,7 +5,7 @@
     <link>https://ernest.guevarra.io/post/</link>
       <atom:link href="https://ernest.guevarra.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2020</copyright><lastBuildDate>Fri, 27 Nov 2020 22:30:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2021</copyright><lastBuildDate>Tue, 19 Jan 2021 22:30:00 +0000</lastBuildDate>
     <image>
       <url>https://ernest.guevarra.io/img/icon-192.png</url>
       <title>Posts</title>
@@ -13,13 +13,29 @@
     </image>
     
     <item>
+      <title>A Simple Approach to Cost-Effectiveness Analysis of Community-Based Management of Acute Malnutrition (CMAM) Programs</title>
+      <link>https://ernest.guevarra.io/post/cmam-cost-effectiveness-analysis-handbook/</link>
+      <pubDate>Tue, 19 Jan 2021 22:30:00 +0000</pubDate>
+      <guid>https://ernest.guevarra.io/post/cmam-cost-effectiveness-analysis-handbook/</guid>
+      <description>
+
+
+&lt;p&gt;I am pleased to share that our handbook on a simplified approach to cost-effectiveness analysis of community-based management of acute malnutrition (CMAM) programs has just been published.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Cost-effectiveness analysis (CEA) is a way of examining the costs and health outcomes of one or more interventions. It compares an intervention to another intervention (or the absence of intervention) by estimating how much it costs to gain a unit of a desired health outcome such as a year of life gained, a case of disease cured, or a life saved. Cost-effectiveness analysis provides information on health impacts and costs of an intervention compared to an alternative intervention (or the absence of intervention). Results are presented as a cost-effectiveness ratio which is the is the cost of an intervention divided by changes in health outcomes. Examples include cost per year of life gained, cost per case cured, and cost per life saved. Interventions can then be compared in terms of cost per unit of effectiveness. This handbook covers the types of outcomes used in CEA analyses, the creation of counterfactuals to model the absence of an intervention, building models of program outcomes and costs, accounting for uncertainty in models using fuzzy numbers and fuzzy arithmetic, the types of costs that need to be considered in cost-effectiveness analyses, detailed methods and tools needed to collect and work with costs data from a variety of sources, and guidance on interpreting cost-effectiveness estimates. A method of cost-effectiveness analysis for community management of acute malnutrition (CMAM) programs is presented including worked examples from Bangladesh, Ethiopia, Kenya and Nigeria.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Book is available from &lt;a href=&#34;https://www.amazon.com/dp/1636480861&#34;&gt;Amazon&lt;/a&gt; or from &lt;a href=&#34;https://www.elivapress.com/en/book/book-1718957254/&#34;&gt;Eliva Press&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>oxcgrt: An Interface to the Oxford COVID-19 Government Response Tracker API</title>
       <link>https://ernest.guevarra.io/post/oxford-covid19-government-response-tracker/</link>
       <pubDate>Fri, 27 Nov 2020 22:30:00 +0000</pubDate>
       <guid>https://ernest.guevarra.io/post/oxford-covid19-government-response-tracker/</guid>
       <description>
-&lt;link href=&#34;index_files/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;index_files/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;The &lt;a href=&#34;https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker&#34;&gt;Oxford COVID-19 Government Response Tracker (OxCGRT)&lt;/a&gt; tracks and compares worldwide government responses to the COVID-19 pandemic rigorously and consistently. &lt;a href=&#34;https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker&#34;&gt;OxCGRT&lt;/a&gt; makes available systematic information in a consistent way, aiding those who require information have access to it efficiently. This package facilitates access to the &lt;a href=&#34;https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker&#34;&gt;OxCGRT&lt;/a&gt; data for &lt;a href=&#34;https://cran.r-project.org&#34;&gt;R&lt;/a&gt; users via version 2 of its API. This package also includes functions to calculate the various &lt;a href=&#34;https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker&#34;&gt;OxCGRT&lt;/a&gt; indices in &lt;a href=&#34;https://cran.r-project.org&#34;&gt;R&lt;/a&gt;. This package is aimed at &lt;a href=&#34;https://cran.r-project.org&#34;&gt;R&lt;/a&gt; users who use or plan to use the &lt;a href=&#34;https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker&#34;&gt;OxCGRT&lt;/a&gt; data for their research or for other academic purposes or who develop or want to develop other metrics or indices that build on the &lt;a href=&#34;https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker&#34;&gt;OxCGRT&lt;/a&gt; approach.&lt;/p&gt;
@@ -44,8 +60,6 @@
       <pubDate>Sun, 22 Nov 2020 00:30:00 +0000</pubDate>
       <guid>https://ernest.guevarra.io/post/interface-doh-covid19-data-drop/</guid>
       <description>
-&lt;link href=&#34;index_files/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;index_files/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;The &lt;a href=&#34;https://www.doh.gov.ph&#34;&gt;Philippines Department of Health&lt;/a&gt; has made COVID-19 related data publicly available as part of its mandate to promoting transparency and accountability in governance. The Philippines COVID-19 Data Drop is distributed via &lt;em&gt;Google Drive&lt;/em&gt; with latest updated data provided daily (generally). Data from previous days are archived and also made available through &lt;em&gt;Google Drive&lt;/em&gt;. This package provides a coherent, robust and performant API to the latest and archived Philippines COVID-19 data.&lt;/p&gt;
