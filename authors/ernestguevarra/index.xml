@@ -5,12 +5,87 @@
     <link>https://ernest.guevarra.io/authors/ernestguevarra/</link>
       <atom:link href="https://ernest.guevarra.io/authors/ernestguevarra/index.xml" rel="self" type="application/rss+xml" />
     <description>ernestguevarra</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2024</copyright><lastBuildDate>Tue, 19 Jan 2021 22:30:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© Ernest Guevarra 2024</copyright><lastBuildDate>Thu, 18 Apr 2024 20:37:00 +0000</lastBuildDate>
     <image>
       <url>https://ernest.guevarra.io/img/icon-192.png</url>
       <title>ernestguevarra</title>
       <link>https://ernest.guevarra.io/authors/ernestguevarra/</link>
     </image>
+    
+    <item>
+      <title>Bagyo</title>
+      <link>https://ernest.guevarra.io/post/bagyo/</link>
+      <pubDate>Thu, 18 Apr 2024 20:37:00 +0000</pubDate>
+      <guid>https://ernest.guevarra.io/post/bagyo/</guid>
+      <description>
+
+
+&lt;p&gt;One would be hard-pressed to think of any other event or phenomenon more universally experienced by Filipinos than a cyclone or what we call &lt;strong&gt;&lt;em&gt;bagyo&lt;/em&gt;&lt;/strong&gt; (pronounced /baɡˈjo/, [bɐɡˈjo]). My earliest memory related to cyclones was when I was 4 years old and my older brother and I were put into an empty plastic drum to float above flood waters pushed along by our mother. My mother recounts how happy and excited my brother and I was being inside that drum, oblivious to the strong gusts of wind and heavy rains outside. She did her best to steady the drum and shield us from the wind and rain while she waded through chest-deep flood waters to get to a place of refuge. As I grew up, cyclones would provide interesting chapters into my formative years. I still recall the joy of having school cancelled when the incoming cyclone was determined to be too strong and potentially unsafe followed by an immediate realisation that I would just end up being stuck at home and unable to play because of the harsh conditions outside and the constant possibility of flooding. In my second year of medical school, I volunteered to live in a small remote fishing village in the main northern island of the Philippines. The village lies along the usual path of cyclones that develop on the Philippine Sea to the east. As to be expected, midway into my time there was when I experienced the raw power of cyclones. Over a three-day period, two typhoon category cyclones made landfall near the area of the fishing village and with the eye of the storm, the spot with the lowest pressure and fastest sustained wind speed, passing very close by. This was very transformative and made the experiences of those in the margins - whether physical, social, or economical - tangible and real for me.&lt;/p&gt;
+&lt;p&gt;Now, having lived almost half of my lifetime outside of the Philippines, I have gone places where I’ve experienced other life-changing and values-defining events and phenomenon. These, along with my cyclones experience, continue to shape and inform my notion and understanding of fairness, diversity, and equity.&lt;/p&gt;
+&lt;p&gt;It is from this background that the &lt;a href=&#34;https://panukatan.io/bagyo&#34;&gt;&lt;code&gt;bagyo&lt;/code&gt; R package&lt;/a&gt; was borne out of. Just like a songwriter’s lyrics and melody for a dearly beloved or a poet’s ode to their muse, this package is a nod to my youth and a loving embrace to my motherland. I’ve always thought of how good it would be to have a dataset that I, and others like me, will be able to relate to. And today the &lt;a href=&#34;https://panukatan.io/bagyo&#34;&gt;&lt;code&gt;bagyo&lt;/code&gt; R package&lt;/a&gt; has just been released on &lt;a href=&#34;https://cran.r-project.org&#34;&gt;CRAN&lt;/a&gt;. I hope this dataset can be an adjunct to the well-established &lt;a href=&#34;https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/iris.html&#34;&gt;&lt;code&gt;iris&lt;/code&gt;&lt;/a&gt; dataset and to the currently popular &lt;a href=&#34;https://allisonhorst.github.io/palmerpenguins/&#34;&gt;&lt;code&gt;palmerpenguins&lt;/code&gt;&lt;/a&gt; dataset.&lt;/p&gt;
+&lt;div id=&#34;about-the-bagyo-data&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;About the &lt;code&gt;bagyo&lt;/code&gt; data&lt;/h2&gt;
+&lt;p&gt;The &lt;code&gt;bagyo&lt;/code&gt; package contains the &lt;code&gt;bagyo&lt;/code&gt; dataset. This dataset was taken from annual reports on Philippine tropical cyclones prepared and released by &lt;a href=&#34;https://www.pagasa.dost.gov.ph/&#34;&gt;PAGASA&lt;/a&gt; at its &lt;a href=&#34;https://www.pagasa.dost.gov.ph/tropical-cyclone/publications/annual-report&#34;&gt;website&lt;/a&gt; in PDF format.&lt;/p&gt;
+&lt;p&gt;Because the reports are in PDF format and the information described above are in tables within the documents, scripts for scraping the desired data were developed and implemented to arrive at the &lt;code&gt;bagyo&lt;/code&gt; dataset. The data scraping script can be viewed &lt;a href=&#34;https://github.com/panukatan/bagyo/blob/main/data-raw/process_data.R&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The following information is available from the dataset:&lt;/p&gt;
+&lt;table&gt;
+&lt;colgroup&gt;
+&lt;col width=&#34;50%&#34; /&gt;
+&lt;col width=&#34;50%&#34; /&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;strong&gt;Variable&lt;/strong&gt;&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;em&gt;year&lt;/em&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Year&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;em&gt;category_code&lt;/em&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Tropical cyclone category code&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;em&gt;category_name&lt;/em&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Tropical cyclone category name&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;em&gt;name&lt;/em&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Name given to the tropical cyclone by Philippine authorities&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;em&gt;rsmc_name&lt;/em&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Name given to the tropical cyclone by the Regional Specialized Meteorological Centre (RSMC)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;em&gt;start&lt;/em&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Date and time at which cyclone enters Philippine area of responsibility (PAR)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;em&gt;end&lt;/em&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Date and time at which cyclone leaves Philippine area of responsibility (PAR)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;em&gt;pressure&lt;/em&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Maximum central pressure in &lt;em&gt;hPa&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;em&gt;speed&lt;/em&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Maximum sustained wind speed in &lt;em&gt;km/h&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;This metadata can be viewed in R through a call to &lt;code&gt;?bagyo&lt;/code&gt; in the R console.&lt;/p&gt;
+&lt;p&gt;Whilst tropical cyclones have affected the Philippines far earlier than 2017 and more currently than 2020, official and publicly available data for the information described above is only available in the reports for years 2017 to 2020. Earlier documents of this annual reporting pre-2017 have been produced but are not available on the &lt;a href=&#34;https://www.pagasa.dost.gov.ph/&#34;&gt;PAGASA&lt;/a&gt; website. These reports of the tropical cyclone season (re-started in 2019) are published within two years after the termination of the season. Hence, the most recent report is only up to 2020 for now.&lt;/p&gt;
+&lt;p&gt;It is expected that reports for 2021 onwards will continue to be published and made available by PAGASA. As such, the &lt;code&gt;bagyo&lt;/code&gt; package and the &lt;code&gt;bagyo&lt;/code&gt; dataset within it will be updated accordingly. Continued efforts are also being taken to find sources of information for years preceding 2017.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>A Simple Approach to Cost-Effectiveness Analysis of Community-Based Management of Acute Malnutrition (CMAM) Programs</title>
