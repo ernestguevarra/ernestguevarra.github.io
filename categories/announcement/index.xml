@@ -81,6 +81,7 @@
 &lt;p&gt;This metadata can be viewed in R through a call to &lt;code&gt;?bagyo&lt;/code&gt; in the R console.&lt;/p&gt;
 &lt;p&gt;Whilst tropical cyclones have affected the Philippines far earlier than 2017 and more currently than 2020, official and publicly available data for the information described above is only available in the reports for years 2017 to 2020. Earlier documents of this annual reporting pre-2017 have been produced but are not available on the &lt;a href=&#34;https://www.pagasa.dost.gov.ph/&#34;&gt;PAGASA&lt;/a&gt; website. These reports of the tropical cyclone season (re-started in 2019) are published within two years after the termination of the season. Hence, the most recent report is only up to 2020 for now.&lt;/p&gt;
 &lt;p&gt;It is expected that reports for 2021 onwards will continue to be published and made available by PAGASA. As such, the &lt;code&gt;bagyo&lt;/code&gt; package and the &lt;code&gt;bagyo&lt;/code&gt; dataset within it will be updated accordingly. Continued efforts are also being taken to find sources of information for years preceding 2017.&lt;/p&gt;
+&lt;p&gt;To read more about the &lt;code&gt;bagyo&lt;/code&gt; package and the dataset within it, visit the package website &lt;a href=&#34;https://panukatan.io/bagyo/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;
 &lt;br&gt;&lt;/p&gt;
 &lt;/div&gt;
